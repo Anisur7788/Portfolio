@@ -45,10 +45,8 @@
 
 
 .dert {
-   width: 400px;
-   border-radius: 700px;
-   margin-top: 80px;
-   margin-right: 40px;
+   clip-path: circle();
+  
     
     
 }
